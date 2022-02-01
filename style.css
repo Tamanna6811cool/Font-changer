@@ -1,0 +1,33 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.note{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    font-family: cursive;
+}
+.copy_right_footer{
+    position: fixed;
+    color: ivory;
+    bottom: 0;
+    width: 100%;
+    background-color: palevioletred;
+    line-height: 3;
+    text-align: center;
+    font-family: fantasy;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to top, #314fa3 0%,#82b5e7 50%, #19d38c 75%, #3EB489 100%  );
+}
